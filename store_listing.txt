@@ -23,147 +23,190 @@ Everyone
 SHORT DESCRIPTION (80 characters max)
 --------------------------------------------------------------------------------
 
-Official company profile of Minormend Construction Pvt Ltd - Business info app.
+Official profile app of Minormend Construction - Your trusted building partner.
 
 --------------------------------------------------------------------------------
 FULL DESCRIPTION (4000 characters max)
 --------------------------------------------------------------------------------
 
-MINORMEND CONSTRUCTION PRIVATE LIMITED - Official Company Profile App
+Welcome to the official mobile application of MINORMEND CONSTRUCTION PRIVATE LIMITED – a registered construction and infrastructure services company headquartered in Chandigarh, India.
 
-Welcome to the official mobile application of MINORMEND CONSTRUCTION PRIVATE LIMITED, a trusted construction and infrastructure services company based in Chandigarh, India.
+▶ WHO WE ARE
+━━━━━━━━━━━━━━━━
+MINORMEND CONSTRUCTION PRIVATE LIMITED is a professionally managed construction company committed to delivering quality infrastructure solutions. With a strong foundation in construction-related services, we bring expertise, reliability, and professional standards to every project we undertake.
 
-ABOUT THE COMPANY:
-MINORMEND CONSTRUCTION PRIVATE LIMITED is engaged in construction-related services with a focus on quality execution, reliability, and professional standards. The company operates from Chandigarh and serves clients across various construction requirements.
+▶ OUR SERVICES
+━━━━━━━━━━━━━━━━
+✦ Building Construction
+   Complete residential and commercial building construction services from foundation to finishing.
 
-OUR SERVICES:
-• Building Construction
-• Civil & Structural Works
-• Renovation & Maintenance
-• Project Support Services
+✦ Civil & Structural Works
+   Professional civil engineering and structural works ensuring durability and safety.
 
-APP FEATURES:
+✦ Renovation & Maintenance
+   Transform and maintain your existing structures with our renovation expertise.
+
+✦ Project Support Services
+   End-to-end project management and support for seamless execution.
+
+▶ WHY CHOOSE US
+━━━━━━━━━━━━━━━━
+• Quality Execution – We never compromise on quality
+• Professional Standards – Industry-best practices in every project
+• Reliability – Trusted partner for your construction needs
+• Experienced Team – Skilled professionals dedicated to excellence
+
+▶ APP FEATURES
+━━━━━━━━━━━━━━━━
 ✓ Complete company profile and business information
-✓ Detailed overview of our construction services
-✓ Direct contact options - tap to call or email
-✓ Privacy-focused - No data collection
-✓ Works completely offline
-✓ Clean and professional Material Design interface
-✓ No advertisements
-✓ No login required
-✓ No analytics or tracking
-✓ No background services
+✓ Detailed overview of all our services
+✓ One-tap calling and emailing
+✓ 100% Offline – No internet required
+✓ Lightweight and fast
+✓ Clean, professional interface
 
-CONTACT INFORMATION:
-• Contact Person: Rajni
-• Email: minormendcon1997@gmail.com
-• Phone: +91 99883 30113
+▶ PRIVACY FOCUSED
+━━━━━━━━━━━━━━━━
+• No data collection
+• No advertisements
+• No login required
+• No tracking or analytics
+• No background services
 
-REGISTERED ADDRESS:
+▶ CONTACT US
+━━━━━━━━━━━━━━━━
+📧 Email: minormendcon1997@gmail.com
+📞 Phone: +91 99883 30113
+
+📍 Registered Office:
 House No. 1387, Deep Complex
 Hallo Majra, Ram Darbar
-Chandigarh – 160002
-India
+Chandigarh – 160002, India
 
-This application serves as the official company profile, providing business information, services overview, and contact details for MINORMEND CONSTRUCTION PRIVATE LIMITED.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Download now to learn more about our construction services and get in touch with us directly.
+Download now to explore our services and connect with us directly!
 
---------------------------------------------------------------------------------
-KEYWORDS/TAGS
---------------------------------------------------------------------------------
-
-construction, minormend, building, civil works, structural works, renovation, maintenance, chandigarh, india, contractor, infrastructure, company profile, business
+MINORMEND CONSTRUCTION PRIVATE LIMITED
+Building Trust, Constructing Excellence.
 
 --------------------------------------------------------------------------------
-CONTACT DETAILS (For Store Listing)
+KEYWORDS/TAGS (Comma separated)
+--------------------------------------------------------------------------------
+
+construction company, minormend, building contractor, civil works, structural engineering, renovation services, maintenance, chandigarh contractor, india construction, infrastructure, company profile, building construction, project management
+
+--------------------------------------------------------------------------------
+CONTACT DETAILS (Developer Information)
 --------------------------------------------------------------------------------
 
 Developer Name:
 MINORMEND CONSTRUCTION PRIVATE LIMITED
 
-Email:
+Developer Email:
 minormendcon1997@gmail.com
 
-Phone:
+Developer Phone:
 +91 99883 30113
 
-Website:
-N/A
-
-Address:
+Physical Address:
 House No. 1387, Deep Complex, Hallo Majra, Ram Darbar, Chandigarh – 160002, India
 
 --------------------------------------------------------------------------------
-PRIVACY POLICY (Required for Play Console)
+PRIVACY POLICY
 --------------------------------------------------------------------------------
 
-Privacy Policy URL: [You need to host this online]
-
-Privacy Policy Text (to be hosted):
-
-PRIVACY POLICY - MINORMEND CONSTRUCTION APP
-
-Last Updated: February 2026
-
-MINORMEND CONSTRUCTION PRIVATE LIMITED respects user privacy.
-
-1. DATA COLLECTION
-This application does not collect, store, or share any personal user data.
-
-2. APP PURPOSE
-The app is intended solely to provide official company information about MINORMEND CONSTRUCTION PRIVATE LIMITED.
-
-3. EXTERNAL COMMUNICATION
-Any communication initiated through email or phone is handled externally by your device's default email or phone applications and is not stored within this application.
-
-4. THIRD-PARTY SERVICES
-This application does not use any third-party analytics, advertising, or tracking services.
-
-5. PERMISSIONS
-This app requires no special permissions and does not access any personal data on your device.
-
-6. CONTACT
-For any questions regarding this privacy policy, please contact:
-Email: minormendcon1997@gmail.com
-Phone: +91 99883 30113
+Privacy Policy URL: [Host privacy_policy.html and add URL here]
 
 --------------------------------------------------------------------------------
-GRAPHICS REQUIREMENTS
+GRAPHICS CHECKLIST
 --------------------------------------------------------------------------------
 
-Required Assets:
-1. App Icon: 512 x 512 px (PNG, 32-bit, alpha) ✓ Already created
-2. Feature Graphic: 1024 x 500 px (PNG or JPG)
-3. Screenshots: 
-   - Phone: Min 2, Max 8 (16:9 or 9:16 aspect ratio)
-   - Recommended: 1080 x 1920 px or 1920 x 1080 px
-4. Tablet Screenshots (Optional): 7-inch and 10-inch
+□ App Icon: 512 x 512 px (PNG, 32-bit with alpha)
+□ Feature Graphic: 1024 x 500 px (PNG or JPG)
+□ Phone Screenshots: Min 2, Max 8 (1080 x 1920 px recommended)
+□ 7-inch Tablet Screenshots (Optional)
+□ 10-inch Tablet Screenshots (Optional)
 
 --------------------------------------------------------------------------------
-APP CONTENT DECLARATIONS
+CONTENT RATING QUESTIONNAIRE ANSWERS
 --------------------------------------------------------------------------------
 
-• Contains Ads: No
-• In-app purchases: No
-• Interactive elements: None
-• Data shared with third parties: No
-• Data collected: None
+Violence: No
+Sexual Content: No
+Language: No
+Controlled Substance: No
+User-Generated Content: No
+Shares Location: No
+Contains Ads: No
+In-App Purchases: No
+
+Target Audience: General / All Ages
+Primary Audience: Business users, Potential clients
 
 --------------------------------------------------------------------------------
-TARGET AUDIENCE
+DATA SAFETY SECTION
 --------------------------------------------------------------------------------
 
-Target Age Group: All ages (General audience)
-App is suitable for: Everyone
+Data collected: None
+Data shared: None
+Security practices: Data encrypted in transit (N/A - no data transmitted)
+Data deletion: N/A - no user data stored
 
 --------------------------------------------------------------------------------
-VERSION INFORMATION
+APP ACCESS
+--------------------------------------------------------------------------------
+
+All app functionality is available without special access.
+No restricted features.
+No login required.
+
+--------------------------------------------------------------------------------
+VERSION DETAILS
 --------------------------------------------------------------------------------
 
 Version Name: 1.0.0
 Version Code: 1
-Minimum Android Version: Android 5.0 (API 21)
+Minimum Android: 5.0 (API 21)
+Target Android: Latest stable
+
+--------------------------------------------------------------------------------
+RELEASE NOTES (What's New)
+--------------------------------------------------------------------------------
+
+VERSION 1.0.0 (Initial Release)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎉 Introducing Minormend Construction - Official Company Profile App!
+
+We're excited to launch our official mobile application. Here's what you can explore:
+
+✨ NEW FEATURES:
+• Complete company profile with business information
+• Detailed services overview - Building Construction, Civil Works, Renovation & more
+• One-tap contact options - Call or email us directly
+• Privacy Policy and About sections
+• Beautiful Material Design 3 interface
+
+🔒 PRIVACY FIRST:
+• No data collection
+• No ads or tracking
+• Works 100% offline
+• No account required
+
+📱 OPTIMIZED EXPERIENCE:
+• Fast and lightweight
+• Smooth navigation with bottom bar and drawer menu
+• Professional blue theme matching our brand identity
+
+Download now and discover what Minormend Construction can build for you!
+
+---
+
+FUTURE UPDATES (Planned):
+• Project portfolio gallery
+• Service request form
+• Push notifications for company updates
 
 ================================================================================
                               END OF STORE LISTING
